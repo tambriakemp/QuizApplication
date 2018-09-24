@@ -177,7 +177,7 @@ function correctAnswerHTML () {
     $('.submit-button').hide();  
     $('.question-container').append( `<div class="question-result">
             <button type="button" class="next-question mobile-button" role="button">Next</button></div>
-            <h3 class="result-placement">Correct!</h3>`);
+            <h5 class="result-placement">Correct!</h5>`);
     }
 }
 
