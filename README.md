@@ -1,7 +1,16 @@
-# QuizApplication
+# Quiz Application Javascript
 
-Developed using HTML, CSS, Javascript, jQuery
+## Description
+A quiz app testing on your JavaScript knowledge. 
 
-link to live site
-
+## Live Link
 https://tambriakemp.github.io/QuizApplication/
+
+## Tech Stack
+* HTML
+* CSS
+* JavaScript
+* jQuery
+
+## Screenshots
+![Home Page](https://github.com/tambriakemp/autoSpaBistro/blob/master/public/images/autospabistrohomepage.png "Home Page")
