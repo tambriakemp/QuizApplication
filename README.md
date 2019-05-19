@@ -13,4 +13,4 @@ https://tambriakemp.github.io/QuizApplication/
 * jQuery
 
 ## Screenshots
-![Home Page](https://github.com/tambriakemp/autoSpaBistro/blob/master/public/images/autospabistrohomepage.png "Home Page")
+![Home Page](https://github.com/tambriakemp/QuizApplication/blob/master/images/Screen%20Shot%202019-05-19%20at%201.41.35%20AM.png "Home Page")
